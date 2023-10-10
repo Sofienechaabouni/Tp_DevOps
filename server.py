@@ -87,3 +87,10 @@ if __name__ == '__main__':
 #     print('Data received:', data)
 #     requests.post('http://localhost:5000/send_data', json={'data': data})
 #     time.sleep(0.1)
+
+#added some code here 
+# This is some dummy code
+def dummy_function():
+    print("This is a dummy function")
+    
+dummy_function()
